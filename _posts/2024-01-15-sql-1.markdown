@@ -9,7 +9,6 @@ As a researcher who has spent four years developing machine learning algorithms 
 
 To get a rough idea of what SQL is, I gathered some (interesting) facts that satisfied my curiosity. 
 
-#### Background
 
 **SQL or SEQUEL?**
 - SEQUEL – Structured English QUEry Language 
