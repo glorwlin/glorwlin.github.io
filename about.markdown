@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am Gloria! Here I will be sharing with you things that I have been learning in the context of both work and life, and, hopefully, we can learn together. 
+Hi, I am Gloria! Here I will be sharing with you the things that I have been learning recently and, hopefully, we can learn together. 
 
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
