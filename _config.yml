@@ -28,7 +28,7 @@ email: glorlin@hotmail.com
 #github_username:  glorwlin
 
 # Build settings
-theme: just-the-docs
+theme: just-the-docs 
 plugins:
   - jekyll-feed
 
