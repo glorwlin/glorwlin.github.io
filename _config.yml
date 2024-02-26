@@ -21,9 +21,9 @@
 title: A Green Notebook
 email: glorlin@hotmail.com
 #description: >- # this means to ignore newlines until "baseurl:"
-  This is a personal notebook about all I need to know to contribute to a greener future.
+description: This is a personal notebook about all I need to know to contribute to a greener future.
 #baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://glorwlin.github.io/a-green-notebook" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: GWLmec
 #github_username:  glorwlin
 
@@ -31,6 +31,7 @@ email: glorlin@hotmail.com
 theme: just-the-docs 
 plugins:
   - jekyll-feed
+  - jekyll-default-layout
 
 # Exclude from processing.
 # The following items will not be processed, by default.
