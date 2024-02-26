@@ -5,21 +5,22 @@ date:   2024-01-15
 categories: SQL
 ---
 
-As a researcher who has spent four years developing machine learning algorithms for specific engineering problems, I am so surprised that I have never learnt SQL before. So SQL became the topic of my first personal learning project. 
+As a researcher who has spent four years developing machine learning algorithms for engineering problems, it surprised me that I have never learnt SQL before. So SQL became the topic of my first personal learning project. 
 
 To get a rough idea of what SQL is, I gathered some (interesting) facts that satisfied my curiosity. 
 
-Background
-SQL or SEQUEL?
-    • SEQUEL – Structured English QUEry Language 
-        ◦ SQL was first created at IBM in early 1970s, with the original name being SEQUEL. 
-        ◦ But SEQUEL was already trademarked by an aeroplane company..
-    • SQL – Structured Query Language
-        ◦ The registered acronym in the end. 
+#### Background
 
-How to pronounce it?
-    • Many pronounce it as “sequel” for historical reasons. 
-    • The most popular pronunciation among non-English programmers is S-Q-L. 
+###### SQL or SEQUEL?
+- SEQUEL – Structured English QUEry Language 
+    - SQL was first created at IBM in early 1970s, with the original name being SEQUEL. 
+    - But SEQUEL was already trademarked by an aeroplane company..
+- SQL – Structured Query Language
+    - The registered acronym in the end. 
+
+###### How to pronounce it?
+- Many pronounce it as “sequel” for historical reasons. 
+- The most popular pronunciation among non-English programmers is S-Q-L. 
 
 
 
