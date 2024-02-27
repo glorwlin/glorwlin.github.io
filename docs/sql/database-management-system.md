@@ -5,6 +5,7 @@ nav_order: 2.3
 parent: Introduction to SQL
 ---
 # Relational Database Management Systems
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }

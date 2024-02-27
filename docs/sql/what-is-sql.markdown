@@ -5,6 +5,7 @@ nav_order: 2.1
 parent: Introduction to SQL
 ---
 # What is SQL?
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
