@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SQLite vs MySQL vs PostgreSQL
-nav_order: 3
+nav_order: 2.4
 parent: Introduction to SQL
 ---
 # SQLite vs MySQL vs PostgreSQL

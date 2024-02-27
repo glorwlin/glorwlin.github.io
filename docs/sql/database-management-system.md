@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Database Management Systems
-nav_order: 3
+nav_order: 2.3
 parent: Introduction to SQL
 ---
 # Database Management Systems
