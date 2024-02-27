@@ -23,10 +23,10 @@ parent: Introduction to SQL
 ## Structure of a RDBMS
 - Relational -- data are organised into tables. 
 - Tables = relations 
-- A _relation_ is a set of tuples.
-- A _tuple_ is a row in a table. 
+- A **relation** is a set of tuples.
+- A **tuple** is a row in a table. 
 - Each tuple shares a set of attributes.
-- An _attribute_ is a column in a table. 
+- An **attribute** is a column in a table. 
 
 ## Variations of SQL
 - SQL is used to manage and query data from relational databases. 
