@@ -1,8 +1,7 @@
 ---
 layout: minimal
-parent: index
+parent: A Green Notebook
 title: About
-nav_order: 1
 ---
 
 # [](#header-1)About
