@@ -7,7 +7,7 @@ parent: Introduction to SQL
 # Types of Databases
 {: .no_toc }
 
-Here is a nonexhaustive list of the existing types of databases and their characteristics. 
+Here is a nonexhaustive list of the existing types of databases and how they differentiate from one another. 
 {: .fs-6 .fw-300 }
 
 ## Table of contents
