@@ -3,6 +3,7 @@ layout: default
 title: SQLite vs MySQL vs PostgreSQL
 nav_order: 2.4
 parent: Introduction to SQL
+has_children: true
 ---
 # SQLite vs MySQL vs PostgreSQL
 {: .no_toc }
