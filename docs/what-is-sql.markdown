@@ -6,12 +6,21 @@ categories: SQL
 # What is SQL?
 {: .no_toc }
 
-As a researcher who has spent four years developing machine learning algorithms for engineering problems, it surprised me that I have never learnt SQL before. So SQL became the topic of my first personal learning project. 
+As a researcher who has spent four years developing machine learning algorithms for engineering problems, it surprised me that I have never used any of the well-known database management systems. So SQL became the topic of my first personal learning project. 
 {: .fs-6 .fw-300 }
 
 
-To get a rough idea of what SQL is, I gathered some (interesting) facts that satisfied my curiosity. 
+## Table of contents
+{: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
+---
+
+## Interesting facts
+
+To get a rough idea of what SQL is, I gathered some (interesting) facts that satisfied my curiosity. 
 
 **SQL or SEQUEL?**
 - SEQUEL – Structured English QUEry Language 
