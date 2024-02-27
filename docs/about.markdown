@@ -1,10 +1,12 @@
 ---
-layout: about
+layout: minimal
 title: About
 nav_order: 1
 ---
 
 # [](#header-1)About
+
+<br/>
 
 Hi, I am Gloria! 
 
