@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Supported Data Types
-nav_order: 2.4.1
+nav_order: 2.5
 parent: Popular Open-Source RDBMSs
 grand_parent: Introduction to SQL
 ---
