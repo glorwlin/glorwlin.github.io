@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "What is SQL?"
+title: What is SQL?
 nav_order: 3
 parent: Introduction to SQL
 ---
