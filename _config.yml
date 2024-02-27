@@ -20,4 +20,4 @@ baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://glorwlin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: glorwlin/glorwlin.github.io # for github-metadata
 
-theme: time-machine
+theme: just-the-docs
