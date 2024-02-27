@@ -1,5 +1,6 @@
 ---
 layout: minimal
+parent: index
 title: About
 nav_order: 1
 ---
