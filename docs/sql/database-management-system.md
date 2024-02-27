@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Database Management Systems
+title: RDBMS and SQL
 nav_order: 2.3
 parent: Introduction to SQL
 ---
-# Database Management Systems
+# RDBMS and SQL
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -18,9 +18,9 @@ parent: Introduction to SQL
 - **Database** -- logically modelled clusters of information/data
 - **Database management system (DBMS)** -- a computer program that interacts with a database
 - Every DBMS has an underlying model that structures how data are stored and accessed. 
-    - e.g. relational database management system &larr relational data model
+    - e.g. relational database management system (RDBMS) &larr; relational data model
 
-## The structure of a relational database management system (RDBMS)
+## Structure of a RDBMS
 - Relational -- data are organised into tables. 
 - Tables = relations 
 - A _relation_ is a set of tuples.
