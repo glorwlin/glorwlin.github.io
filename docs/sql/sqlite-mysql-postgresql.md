@@ -1,24 +1,15 @@
 ---
 layout: default
-title: SQLite vs MySQL vs PostgreSQL
+title: Popular Open-Source RDBMSs
 nav_order: 2.4
 parent: Introduction to SQL
 has_children: true
 ---
-# SQLite vs MySQL vs PostgreSQL
+# Popular Open-Source RDBMSs
 {: .no_toc }
 
 SQLite, MySQL and PostgreSQL are the most widely implemented open-source RDBMSs nowadays. Here we will look into how each of them specialises in a different type of task. 
 {: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 
 
 
