@@ -22,14 +22,14 @@ As a researcher who has spent four years developing machine learning algorithms 
 
 To get a rough idea of what SQL is, I gathered some (interesting) facts that satisfied my curiosity. 
 
-**SQL or SEQUEL?**
+### SQL or SEQUEL?
 - SEQUEL – Structured English QUEry Language 
     - SQL was first created at IBM in early 1970s, with the original name being SEQUEL. 
     - But SEQUEL was already trademarked by an aeroplane company..
 - SQL – Structured Query Language
     - The registered acronym in the end. 
 
-**How to pronounce it?**
+### How to pronounce it?
 - Many pronounce it as “sequel” for historical reasons. 
 - The most popular pronunciation among non-English programmers is S-Q-L. 
 
