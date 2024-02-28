@@ -18,8 +18,8 @@ Here is a nonexhaustive list of the existing types of databases and how they dif
 
 ---
 
-## Define Database
-Database is an organised collection of structured information/data typically stored electronically in a computer system; the most common type of databases is in the form of tables.
+## Define "database"
+A database is an organised collection of structured information/data typically stored electronically in a computer system; the most common type of databases is in the form of tables.
 
 ## Relational database 
 - a type of database that stores and provides access to data points that are related to one another
