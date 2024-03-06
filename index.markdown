@@ -14,4 +14,4 @@ Hi, I am Gloria!
 
 In A Green Notebook, I will be sharing with you what I have been working on and what I am currently learning, in preparation for the coming challenges in work and life. It is supposed to be a growing document that contains my study notes and records my amenable track of thought, which, hopefully, can grow into something bigger and more valuable when the right time comes. 
 
-Hope you enjoy the journey into my mind:)
+Hope you find some of the materials useful:)
