@@ -7,7 +7,7 @@ parent: Introduction to SQL
 # Relational Database Management Systems
 {: .no_toc }
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
