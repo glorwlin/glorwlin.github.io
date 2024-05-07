@@ -34,9 +34,18 @@ A comprehensive list of data types used in varous relational databases can be fo
 ### Pros
 
 Lightweight
-: can take up very little disk space
-: no external dependencies
+: - can take up very little disk space
+: - no external dependencies
 
+Easy to use
+: - not a server process
+: - no need to be stopped, started, or restarted
+: - no configuration files to be managed
+
+Portable
+: - An entire SQLite database is stored in a single file, 
+: - whereas other DBMSs typically store data as a large batch of separate files.
+: - can be easily shared
 
 ### Cons
 
