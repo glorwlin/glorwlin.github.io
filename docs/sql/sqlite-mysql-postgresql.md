@@ -21,6 +21,14 @@ SQLite, MySQL and PostgreSQL are the most widely implemented open-source RDBMSs 
 | <span style="display: inline-block; width:340px">- database engines implemented as a server process <br> - allow programs to communicate with the host server <br> - an interprocess communication that relays requests <br> - e.g. mySQL and PostgreSQL</span> | <span style="display: inline-block; width:340px">- interact (access, read, and write) with the database disk file directly <br> - e.g. SQLite</span> |
 
 
+## Data Types
+A comprehensive list of data types used in varous relational databases can be found [here](https://www.w3schools.com/sql/sql_datatypes.asp). Here we provide a brief summary of the data types supported by SQLite, MySQL and PostgreSQL, respectively:
+
+| SQLite | MySQL | PostgreSQL |
+| --- | --- | --- |
+| <span style="display: inline-block; width:230px">- `null` <br> - `integer`: signed integers <br> - `real` <br> - `blob`: Binary Large Objects</span> | <span style="display: inline-block; width:230px">- several numerical types <br> - several date and time types <br> - several string types</span> | <span style="display: inline-block; width:230px">- in addition to numeric, string, and date and time <br> - also supports geometric shapes, network addresses, bit strings, text searches, JSON entries</span> |
+
+
 ## SQLite
 - a serverless database
 - hence simplified setup process
