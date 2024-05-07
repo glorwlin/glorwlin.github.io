@@ -43,33 +43,25 @@ A comprehensive list of data types used in varous relational databases can be fo
 ### Pros
 
 Lightweight
-: - can take up very little disk space
-: - no external dependencies
+: SQLite can take up very little disk space and operate without external dependencies.
 
 Easy to use
-: - not a server process
-:   - no need to be stopped, started, or restarted
-:   - no configuration files to be managed
+: SQLite is not a server process. There is no need to go through steps associated with server processes, e.g. starting/stopping/restarting the process and managing configuration files.
 
 Portable
-: - An entire SQLite database is stored in a single file, 
-: - whereas other DBMSs typically store data as a large batch of separate files.
-: - can be easily shared
+: An entire SQLite database is stored in a single file, whereas other DBMSs typically store data as a large batch of separate files. Hence, SQLite projects can be easily shared. 
 
 ### Cons
 
 Limited concurrency
 : - Concurrency – the ability of two transactions to use the same data at the same time
-: - multiple processes can access and query an SQLite database
-: - but only one process can make changes to the database at any given time
+: - Multiple processes can access and query an SQLite database, but only one process can make changes to the database at any given time.
 
 No user management
-: - The access permissions used are the typical access permissions of the underlying operating system.
-: - poor for applications that require multiple users with special access permissions
+: SQLite allows users to read and write directly to disk, which is poor for applications that require multiple users with special access permissions. 
 
 Security
-: - Being serverless may not be able to shield the database from bugs in the client application.
-: - Server database can control data access with more precision.
+: Being serverless may not be able to shield the database from bugs in the client application. Server database can control data access with more precision.
 
 ---
 
@@ -82,15 +74,13 @@ Security
 ### Pros
 
 Popularity & ease of use
-: - experienced data administrators available
-: - abundant support online
+: There are experienced data administrators in the job market and abundant support online. 
 
 Security
-: support user management, as opposed to SQLite
+: MySQL supports user management, as opposed to SQLite.
 
 Replication
-: - support setting up a database backup solution
-: - support horizontally scaling a database
+: MySQL supports setting up a database backup solution and horizontally scaling a database.
 
 ### Cons
 
@@ -98,10 +88,7 @@ Functional limitations
 : MySQL does not fully support standard SQL.
 
 Licensing and proprietary features
-: - Dual-licensed
-: - (1) free, open-source edition licenced under GPLv2
-: - (2) commercial editions released under proprietary licenses
-: - some features and plugins are only available for the proprietary editions
+: MySQL is dual-licensed with (1) free, open-source edition licenced under GPLv2 and (2) commercial editions released under proprietary licenses. Some features and plugins are only available for the proprietary editions. 
 
 Slowed development
 : Oracle’s acquisition of Sun resulted in slowed development process and led to lack of agile responses to problems. 
@@ -113,24 +100,21 @@ Slowed development
 ### Pros
 
 SQL compliance
-: closely adhere to SQL standards
+: PostgreSQL closely adheres to SQL standards.
 
 Open-source & community-driven
-: - fully open-source
-: - online resources available
+: PostgreSQL is fully open-source with abundant online resources available. 
 
 Extensible
-: able to extend PostgreSQL programmatically and on the fly
+: It is possible to extend PostgreSQL programmatically and on the fly.
 
 ### Cons
 
 Memory performance
-: - Each new process is allocated about 10MB of memory. 
-: - not ideal for simple read-heavy operations
+: Each new process is allocated about 10MB of memory, hence, PostgreSQL is not ideal for simple read-heavy operations. 
 
 Not as popular as MySQL
-: - Fewer third-party tools can help manage a PostgreSQL database.
-: - not as many experienced database administrators
+: Fewer third-party tools can help manage a PostgreSQL database. There are not as many experienced database administrators available (as is the case for MySQL). 
 
 ---
 
