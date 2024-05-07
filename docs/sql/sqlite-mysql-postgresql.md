@@ -83,8 +83,7 @@ Popularity & ease of use
 : - abundant support online
 
 Security
-: - support user management
-: - as opposed to SQLite
+: support user management, as opposed to SQLite
 
 Replication
 : - support setting up a database backup solution
@@ -128,4 +127,14 @@ Memory performance
 Not as popular as MySQL
 : - Fewer third-party tools can help manage a PostgreSQL database.
 : - not as many experienced database administrators
+
+---
+
+## How to choose RDBMSs?
+Here is a list of questions that you may ask yourself/your team/your clients before deciding on the RDBMS for a specific project. 
+
+== 1. Are you working with a big amount of data? ==
+
+
+
 
