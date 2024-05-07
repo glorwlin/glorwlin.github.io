@@ -1,9 +1,0 @@
----
-layout: default
-title: Supported Data Types
-nav_order: 2.5
-parent: Popular Open-Source RDBMSs
-grand_parent: Introduction to SQL
----
-# Supported Data Types
-{: .no_toc }

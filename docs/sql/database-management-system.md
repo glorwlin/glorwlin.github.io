@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Relational Database Management Systems
-nav_order: 2.3
+nav_order: 10.3
 parent: Introduction to SQL
 ---
 # Relational Database Management Systems

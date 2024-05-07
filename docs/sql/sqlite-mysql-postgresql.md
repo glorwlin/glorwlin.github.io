@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Popular Open-Source RDBMSs
-nav_order: 2.4
+nav_order: 10.4
 parent: Introduction to SQL
 has_children: true
 has_toc: false

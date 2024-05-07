@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Types of Databases
-nav_order: 2.2
+nav_order: 10.2
 parent: Introduction to SQL
 ---
 # Types of Databases

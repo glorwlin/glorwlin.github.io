@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What is SQL?
-nav_order: 2.1
+nav_order: 10.1
 parent: Introduction to SQL
 ---
 # What is SQL?

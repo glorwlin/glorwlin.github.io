@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to SQL
-nav_order: 2
+nav_order: 10
 has_children: true
 ---
 # Introduction to SQL
