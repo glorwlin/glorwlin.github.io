@@ -137,7 +137,7 @@ Not as popular as MySQL
 ## How to choose amoung SQLite, MySQL, and PostgreSQL?
 Here is a list of questions that you may ask yourself/your team/your clients before deciding on the RDBMS for a specific project. 
 
-<mark>1. Are you working with a big amount of data?</mark>
+**<mark>1. Are you working with a big amount of data?</mark>**
 - YES &rarr; maybe not SQLite (poor when used to work with data exceeding 1TB)
 
 
