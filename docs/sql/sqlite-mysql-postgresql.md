@@ -34,8 +34,8 @@ A comprehensive list of data types used in varous relational databases can be fo
 ### Pros
 
 Lightweight
-:   can take up very little disk space
-:   no external dependencies
+: can take up very little disk space
+: no external dependencies
 
 
 ### Cons
