@@ -26,7 +26,7 @@ A comprehensive list of data types used in varous relational databases can be fo
 
 | SQLite | MySQL | PostgreSQL |
 | --- | --- | --- |
-| <span style="display: inline-block; width:220px">- `null` <br> - `integer`: signed integers <br> - `real` <br> - `blob`: Binary Large Objects</span> | <span style="display: inline-block; width:220px">- several numerical types <br> - several date and time types <br> - several string types</span> | <span style="display: inline-block; width:220px">- in addition to numeric, string, and date and time <br> - also supports geometric shapes, network addresses, bit strings, text searches, JSON entries</span> |
+| <span style="display: inline-block; width:210px">- `null` <br> - `integer`: signed integers <br> - `real` <br> - `blob`: Binary Large Objects</span> | <span style="display: inline-block; width:210px">- several numerical types <br> - several date and time types <br> - several string types</span> | <span style="display: inline-block; width:210px">- in addition to numeric, string, and date and time <br> - also supports geometric shapes, network addresses, bit strings, text searches, JSON entries</span> |
 
 
 ## SQLite
