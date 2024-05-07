@@ -12,6 +12,12 @@ has_toc: false
 SQLite, MySQL and PostgreSQL are the most widely implemented open-source RDBMSs nowadays. Here we will look into how each of them specialises in a different type of task. 
 {: .fs-6 .fw-300 }
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ---
 
 ## Server-Based Databases vs. Serverless Databases
@@ -100,4 +106,26 @@ Slowed development
 
 
 ## PostgreSQL
+
+### Pros
+
+SQL compliance
+: closely adhere to SQL standards
+
+Open-source & community-driven
+: - fully open-source
+: - online resources available
+
+Extensible
+: able to extend PostgreSQL programmatically and on the fly
+
+### Cons
+
+Memory performance
+: - Each new process is allocated about 10MB of memory. 
+: - not ideal for simple read-heavy operations
+
+Not as popular as MySQL
+: - Fewer third-party tools can help manage a PostgreSQL database.
+: - not as many experienced database administrators
 
