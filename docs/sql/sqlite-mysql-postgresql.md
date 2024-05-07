@@ -18,7 +18,7 @@ SQLite, MySQL and PostgreSQL are the most widely implemented open-source RDBMSs 
 
 | Server-Based | Serverless |
 | --- | --- |
-| <span style="display: inline-block; width:350px">- database engines implemented as a server process <br> - allow programs to communicate with the host server <br> - an interprocess communication that relays requests</span> | interact (access, read, and write) to the database disk file directly |
+| <span style="display: inline-block; width:350px">- database engines implemented as a server process <br> - allow programs to communicate with the host server <br> - an interprocess communication that relays requests <br> - e.g. mySQL and PostgreSQL</span> | <span style="display: inline-block; width:350px">- interact (access, read, and write) with the database disk file directly <br> - e.g. SQLite</span> |
 
 
 ## SQLite
