@@ -26,15 +26,18 @@ A comprehensive list of data types used in varous relational databases can be fo
 
 | SQLite | MySQL | PostgreSQL |
 | --- | --- | --- |
-| <span style="display: inline-block; width:210px">- `null` <br> - `integer`: signed integers <br> - `real` <br> - `blob`: Binary Large Objects</span> | <span style="display: inline-block; width:210px">- several numerical types <br> - several date and time types <br> - several string types</span> | <span style="display: inline-block; width:210px">- in addition to numeric, string, and date and time <br> - also supports geometric shapes, network addresses, bit strings, text searches, JSON entries</span> |
+| <span style="display: inline-block; width:230px">- `null` <br> - `integer`: signed integers <br> - `real` <br> - `blob`: Binary Large Objects</span> | <span style="display: inline-block; width:230px">- several numerical types <br> - several date and time types <br> - several string types</span> | <span style="display: inline-block; width:230px">- in addition to numeric, string, and date and time <br> - also supports geometric shapes, network addresses, bit strings, text searches, JSON entries</span> |
 
 
 ## SQLite
-- a serverless database
-- hence simplified setup process
-    - no need to configure a server process
-    - all that is needed is access to the disk
 
+### Pros
+| **Lightweight** | - can take up very little disk space<br>- no external dependencies |
+|---|---|
+| **Easy to use** | - not a server process<br>- no need to be stopped, started, or restarted<br>- no configuration files to be managed |
+| **Portable** | - An entire SQLite database is stored in a single file. <br> - Whereas other DBMSs typically store data as a large batch of separate files. <br> - Can be easily shared  |
+
+### Cons
 
 
 
