@@ -134,11 +134,34 @@ Not as popular as MySQL
 
 ---
 
-## How to choose amoung SQLite, MySQL, and PostgreSQL?
+## How to choose among SQLite, MySQL, and PostgreSQL?
 Here is a list of questions that you may ask yourself/your team/your clients before deciding on the RDBMS for a specific project. 
 
 **<mark>1. Are you working with a big amount of data?</mark>**
-- YES &rarr; maybe not SQLite (poor when used to work with data exceeding 1TB)
+- Yes &rarr; maybe **not SQLite** (poor when used to work with data exceeding 1TB)
 
+**<mark>2. What is your database setup?</mark>**
+- A simple setup that allows one to read/write to the disk directly &rarr; consider **SQLite**
+- A distributed database setup &rarr; consider **MySQL**
 
+**<mark>3. How important is it to maintain data integrity in this project?</mark>**
+- Very important &rarr; consider **PostgreSQL**
 
+**<mark>4. What are the types of operations needed?</mark>**
+- Simple operations and quick tests &rarr; consider **SQLite**
+- Concurrent read-write &rarr; consider **PostgreSQL** (better) or **MySQL**
+
+**<mark>5. Do you need SQL compliance?</mark>**
+- Yes &rarr; consider **PostgreSQL**
+
+**<mark>6. Is network access required?</mark>**
+- Yes &rarr; maybe **not SQLite**
+
+**<mark>7. Is this DBMS integrated with other tools?</mark>**
+- Yes &rarr; consider **PostgreSQL**
+
+**<mark>8. Is this DBMS used to power websites or web applications?</mark>**
+- Yes &rarr; consider **MySQL**
+
+**<mark>9. Do you need to replicate this DBMS?</mark>**
+- Yes &rarr; consider **MySQL**
