@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to SQL
+title: Fundamentals of Machine Learning
 nav_order: 5
 has_children: true
 ---
