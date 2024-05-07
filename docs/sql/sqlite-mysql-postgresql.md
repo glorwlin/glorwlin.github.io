@@ -32,10 +32,11 @@ A comprehensive list of data types used in varous relational databases can be fo
 ## SQLite
 
 ### Pros
-| **Lightweight** | - can take up very little disk space<br>- no external dependencies |
-|---|---|
-| **Easy to use** | - not a server process<br>- no need to be stopped, started, or restarted<br>- no configuration files to be managed |
-| **Portable** | - An entire SQLite database is stored in a single file. <br> - Whereas other DBMSs typically store data as a large batch of separate files. <br> - Can be easily shared  |
+
+Lightweight
+:   can take up very little disk space
+:   no external dependencies
+
 
 ### Cons
 
