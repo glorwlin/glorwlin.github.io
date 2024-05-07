@@ -39,8 +39,8 @@ Lightweight
 
 Easy to use
 : - not a server process
-: - no need to be stopped, started, or restarted
-: - no configuration files to be managed
+:   - no need to be stopped, started, or restarted
+:   - no configuration files to be managed
 
 Portable
 : - An entire SQLite database is stored in a single file, 
@@ -49,9 +49,18 @@ Portable
 
 ### Cons
 
+Limited concurrency
+: - Concurrency – the ability of two transactions to use the same data at the same time
+: - multiple processes can access and query an SQLite database
+: - but only one process can make changes to the database at any given time
 
+No user management
+: - The access permissions used are the typical access permissions of the underlying operating system.
+: - poor for applications that require multiple users with special access permissions
 
-
+Security
+: - Being serverless may not be able to shield the database from bugs in the client application.
+: - Server database can control data access with more precision.
 
 
 
