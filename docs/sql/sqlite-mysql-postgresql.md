@@ -30,6 +30,7 @@ A comprehensive list of data types used in varous relational databases can be fo
 
 
 ## SQLite
+- a serverless database
 
 ### Pros
 
@@ -63,5 +64,40 @@ Security
 : - Server database can control data access with more precision.
 
 
+## MySQL
+- the most popular relational database since 2012
+- powers many of world’s largest websites and applications like Twitter, Facebook, Netflix, and Spotify
+- exhaustive documentation and large community of developers available
+- peed and reliability at the expense of full adherence to standard SQL
 
+### Pros
+
+Popularity & ease of use
+: - experienced data administrators available
+: - abundant support online
+
+Security
+: - support user management
+: - as opposed to SQLite
+
+Replication
+: - support setting up a database backup solution
+: - support horizontally scaling a database
+
+### Cons
+
+Functional limitations
+: MySQL does not fully support standard SQL.
+
+Licensing and proprietary features
+: - Dual-licensed
+: - (1) free, open-source edition licenced under GPLv2
+: - (2) commercial editions released under proprietary licenses
+: - some features and plugins are only available for the proprietary editions
+
+Slowed development
+: Oracle’s acquisition of Sun resulted in slowed development process and led to lack of agile responses to problems. 
+
+
+## PostgreSQL
 
