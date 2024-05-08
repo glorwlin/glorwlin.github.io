@@ -1,16 +1,16 @@
 $color-scheme: skyhorizonsunset;
-$body-background-color: $white;
-$body-heading-color: #344E41;
-$body-text-color: #3A5A40;
-$link-color: #588157;
-$nav-child-link-color: #3A5A40;
-$sidebar-color: #F6F5F3;
-$base-button-color: #EDEBE6;
-$btn-primary-color: $purple-100;
-$code-background-color: $grey-lt-000;
+$body-background-color: #FCFFFD;
+$body-heading-color: #619494;
+$body-text-color: #5D737E;
+$link-color: #64B6AC;
+$nav-child-link-color: #5D737E;
+$sidebar-color: #E9EEEE;
+$base-button-color: #D5DCDE;
+$btn-primary-color: #64B6AC;
+$code-background-color: #DFE5E6;
 $feedback-color: darken($sidebar-color, 3%);
 $table-background-color: $white;
 $search-background-color: $white;
-$search-result-preview-color: $grey-dk-000;
+$search-result-preview-color: #5D737E;
 
 @import "./vendor/OneLightJekyll/syntax";
