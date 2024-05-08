@@ -21,3 +21,7 @@ url: "https://glorwlin.github.io" # the base hostname & protocol for your site, 
 repository: glorwlin/glorwlin.github.io # for github-metadata
 
 theme: just-the-docs
+
+## -- Customisation -- ##
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
