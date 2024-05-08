@@ -23,5 +23,4 @@ repository: glorwlin/glorwlin.github.io # for github-metadata
 theme: just-the-docs
 
 ## -- Customisation -- ##
-# Color scheme supports "light" (default) and "dark"
 color_scheme: greengrey
