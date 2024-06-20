@@ -9,8 +9,8 @@ parent: Introduction to SQL
 # Popular Open-Source RDBMSs
 {: .no_toc }
 
-SQLite, MySQL and PostgreSQL are the most widely implemented open-source RDBMSs nowadays. Here we will look into how each of them specialises in a different type of task. 
-{: .fs-6 .fw-300 }
+SQLite, MySQL, and PostgreSQL are currently the most widely implemented open-source relational database management systems (RDBMSs). Here, we will explore how each specialises in various types of tasks.
+{: .fs-5 .fw-300 }
 
 ## Table of Contents
 {: .no_toc .text-delta }

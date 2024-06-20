@@ -8,7 +8,7 @@ parent: Introduction to SQL
 {: .no_toc }
 
 Here is a nonexhaustive list of the existing types of databases and how they differentiate from one another. 
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 
 ## Table of Contents
 {: .no_toc .text-delta }
